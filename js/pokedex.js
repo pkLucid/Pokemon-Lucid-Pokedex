@@ -1,4 +1,4 @@
-BattleSearch.urlRoot = '/';
+BattleSearch.urlRoot = '/Pokemon-Lucid-Pokedex/';
 
 Dex.escapeHTML = function (str, jsEscapeToo) {
 	str = String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
