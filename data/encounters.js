@@ -153,22 +153,22 @@ exports.BattleLocationdex = {
             "baseRate": 4,
             "encs": [
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 }
@@ -204,7 +204,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -343,7 +343,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -711,7 +711,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -1125,7 +1125,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -1320,7 +1320,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -1573,7 +1573,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "poltchageist",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -2777,7 +2777,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -2916,7 +2916,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -3055,7 +3055,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -3284,7 +3284,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -5816,7 +5816,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -6847,22 +6847,22 @@ exports.BattleLocationdex = {
             "baseRate": 4,
             "encs": [
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 }
@@ -7156,12 +7156,12 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "starly",
+                    "species": "phanpy",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "fletchling",
+                    "species": "mudbray",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -7694,22 +7694,22 @@ exports.BattleLocationdex = {
             "baseRate": 4,
             "encs": [
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 }
@@ -7745,7 +7745,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "remoraid",
+                    "species": "binacle",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -7784,22 +7784,22 @@ exports.BattleLocationdex = {
             "baseRate": 4,
             "encs": [
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "",
+                    "species": "shellos",
                     "minLvl": 5,
                     "maxLvl": 5
                 }
@@ -7983,7 +7983,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "phantump",
+                    "species": "bellsprout",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
