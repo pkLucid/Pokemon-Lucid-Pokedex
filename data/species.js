@@ -9616,8 +9616,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Water Absorb",
-            "1": "Shell Armor",
+            "0": "Shell Armor",
             "H": "Hydration"
         },
         "color": "Blue",
@@ -13759,7 +13758,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Hyper Cutter",
-            "H": "Immunity"
+            "H": "Poison Heal"
         },
         "color": "Purple",
         "name": "Gliscor",
@@ -16991,7 +16990,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Early Bird",
+            "0": "Wind Rider",
+            "1": "Chlorophyll",
             "H": "Pickpocket"
         },
         "color": "Brown",
@@ -17034,7 +17034,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Early Bird",
+            "0": "Wind Rider",
+            "1": "Chlorophyll",
             "H": "Pickpocket"
         },
         "color": "Brown",
@@ -17082,6 +17083,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Wind Rider",
+            "1": "Chlorophyll",
             "H": "Pickpocket"
         },
         "color": "Brown",
@@ -24283,7 +24285,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Run Away",
+            "0": "Static",
             "1": "Pickup",
             "H": "Volt Absorb"
         },
@@ -24534,8 +24536,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Sticky Hold",
-            "1": "Storm Drain",
-            "H": "Sand Force"
+            "1": "Sand Force",
+            "H": "Storm Drain"
         },
         "color": "Purple",
         "name": "Shellos",
@@ -24584,8 +24586,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Sticky Hold",
-            "1": "Storm Drain",
-            "H": "Sand Force"
+            "1": "Sand Force",
+            "H": "Storm Drain"
         },
         "color": "Purple",
         "name": "Gastrodon",
@@ -32892,9 +32894,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Infiltrator",
-            "1": "Flame Body",
-            "H": "Flash Fire"
+            "0": "Flame Body",
+            "H": "Infiltrator"
         },
         "color": "White",
         "name": "Litwick",
@@ -32933,9 +32934,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Infiltrator",
-            "1": "Flame Body",
-            "H": "Flash Fire"
+            "0": "Flame Body",
+            "H": "Infiltrator"
         },
         "color": "Black",
         "name": "Lampent",
@@ -32978,8 +32978,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
-            "1": "Flame Body",
+            "0": "Flame Body",
             "H": "Infiltrator"
         },
         "color": "Black",
@@ -34409,7 +34408,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Tornadus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tornadustherian": {
         "num": 641,
@@ -34491,7 +34490,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Thundurus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "thundurustherian": {
         "num": 642,
@@ -34640,7 +34639,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Landorus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "landorustherian": {
         "num": 645,
@@ -41386,7 +41385,7 @@ exports.BattlePokedex = {
         "heightm": 0.7,
         "weightkg": 8.2,
         "prevo": "Bounsweet",
-        "evoLevel": 18,
+        "evoLevel": 14,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -43183,7 +43182,7 @@ exports.BattlePokedex = {
         "name": "Tapu Lele",
         "heightm": 1.2,
         "weightkg": 18.6,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tapubulu": {
         "num": 787,
@@ -43217,7 +43216,7 @@ exports.BattlePokedex = {
         "name": "Tapu Bulu",
         "heightm": 1.9,
         "weightkg": 45.5,
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tapufini": {
         "num": 788,
@@ -49361,7 +49360,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Enamorus-Therian"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "enamorustherian": {
         "num": 905,
@@ -51008,6 +51007,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Own Tempo",
+            "1": "Electromorphosis",
             "H": "Static"
         },
         "color": "Green",
