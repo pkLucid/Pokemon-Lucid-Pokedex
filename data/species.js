@@ -9377,7 +9377,7 @@ exports.BattlePokedex = {
         "weightkg": 115.0,
         "baseSpecies": "Tauros",
         "forme": "Paldea-Combat-Breed",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "taurospaldeablazebreed": {
         "num": 128,
@@ -9416,7 +9416,7 @@ exports.BattlePokedex = {
         "weightkg": 85.0,
         "baseSpecies": "Tauros",
         "forme": "Paldea-Blaze-Breed",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "taurospaldeaaquabreed": {
         "num": 128,
@@ -9455,7 +9455,7 @@ exports.BattlePokedex = {
         "weightkg": 110.0,
         "baseSpecies": "Tauros",
         "forme": "Paldea-Aqua-Breed",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "magikarp": {
         "num": 129,
@@ -10489,7 +10489,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Aerodactyl-Mega"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "aerodactylmega": {
         "num": 142,
@@ -34408,7 +34408,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Tornadus-Therian"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "tornadustherian": {
         "num": 641,
@@ -34490,7 +34490,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Thundurus-Therian"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "thundurustherian": {
         "num": 642,
@@ -34639,7 +34639,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Landorus-Therian"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "landorustherian": {
         "num": 645,
@@ -43182,7 +43182,7 @@ exports.BattlePokedex = {
         "name": "Tapu Lele",
         "heightm": 1.2,
         "weightkg": 18.6,
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "tapubulu": {
         "num": 787,
@@ -43216,7 +43216,7 @@ exports.BattlePokedex = {
         "name": "Tapu Bulu",
         "heightm": 1.9,
         "weightkg": 45.5,
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "tapufini": {
         "num": 788,
@@ -49360,7 +49360,7 @@ exports.BattlePokedex = {
         "otherFormes": [
             "Enamorus-Therian"
         ],
-        "tier": "obtainable"
+        "tier": "unobtainable"
     },
     "enamorustherian": {
         "num": 905,
@@ -54012,7 +54012,7 @@ exports.BattlePokedex = {
         "weightkg": 39.8,
         "baseSpecies": "Ogerpon",
         "forme": "Wellspring",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ogerponhearthflame": {
         "num": 1017,

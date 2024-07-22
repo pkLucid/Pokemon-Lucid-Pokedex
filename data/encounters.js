@@ -2034,22 +2034,22 @@ exports.BattleLocationdex = {
                     "maxLvl": 30
                 },
                 {
+                    "species": "kangaskhan",
+                    "minLvl": 30,
+                    "maxLvl": 30
+                },
+                {
+                    "species": "klawf",
+                    "minLvl": 30,
+                    "maxLvl": 30
+                },
+                {
                     "species": "girafarig",
                     "minLvl": 30,
                     "maxLvl": 30
                 },
                 {
                     "species": "farfetchdgalar",
-                    "minLvl": 30,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "pinsir",
-                    "minLvl": 30,
-                    "maxLvl": 30
-                },
-                {
-                    "species": "klawf",
                     "minLvl": 30,
                     "maxLvl": 30
                 }
@@ -6515,6 +6515,86 @@ exports.BattleLocationdex = {
             ]
         },
         "surf": {},
+        "rock": {
+            "baseRate": 25,
+            "encs": [
+                {
+                    "species": "anorith",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "anorith",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "skorupi",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "skorupi",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "fish": {}
+    },
+    "desertunderpass": {
+        "name": "Desert Underpass",
+        "land": {
+            "baseRate": 20,
+            "encs": [
+                {
+                    "species": "aerodactyl",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "drilbur",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "archen",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "trapinch",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "tinkatink",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "anorith",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "skorupi",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "larvitar",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "aron",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
+        "surf": {},
         "rock": {},
         "fish": {}
     },
@@ -7550,32 +7630,22 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "mudbray",
+                    "species": "trapinch",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "hippopotas",
+                    "species": "geodude",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "nidoranf",
+                    "species": "anorith",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "nidoranm",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "starly",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "fletchling",
+                    "species": "skorupi",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -7585,7 +7655,17 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "dwebble",
+                    "species": "aron",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "sandshrew",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "meowthgalar",
                     "minLvl": 5,
                     "maxLvl": 5
                 }
@@ -7827,7 +7907,7 @@ exports.BattleLocationdex = {
             "baseRate": 20,
             "encs": [
                 {
-                    "species": "klawf",
+                    "species": "kangaskhan",
                     "minLvl": 30,
                     "maxLvl": 30
                 },

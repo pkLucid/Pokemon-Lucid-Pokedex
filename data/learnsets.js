@@ -26816,7 +26816,7 @@ exports.BattleLearnsets = {
                 "L40",
                 "T"
             ],
-            "psychicfangs": [
+            "stoneedge": [
                 "L45",
                 "M"
             ],
@@ -26856,6 +26856,9 @@ exports.BattleLearnsets = {
             "protect": [
                 "M"
             ],
+            "psychicfangs": [
+                "M"
+            ],
             "reflect": [
                 "M"
             ],
@@ -26866,9 +26869,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skyattack": [
-                "M"
-            ],
-            "stoneedge": [
                 "M"
             ],
             "toxic": [
@@ -26943,7 +26943,7 @@ exports.BattleLearnsets = {
                 "L40",
                 "T"
             ],
-            "psychicfangs": [
+            "stoneedge": [
                 "L45",
                 "M"
             ],
@@ -26983,6 +26983,9 @@ exports.BattleLearnsets = {
             "protect": [
                 "M"
             ],
+            "psychicfangs": [
+                "M"
+            ],
             "reflect": [
                 "M"
             ],
@@ -26993,9 +26996,6 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "skyattack": [
-                "M"
-            ],
-            "stoneedge": [
                 "M"
             ],
             "toxic": [
@@ -55797,13 +55797,16 @@ exports.BattleLearnsets = {
                 "L36",
                 "T"
             ],
+            "xscissor": [
+                "L40",
+                "T"
+            ],
             "protect": [
-                "L41",
+                "L44",
                 "M"
             ],
-            "xscissor": [
-                "L44",
-                "T"
+            "leechlife": [
+                "L48"
             ],
             "earthpower": [
                 "M"
@@ -55880,13 +55883,16 @@ exports.BattleLearnsets = {
                 "L36",
                 "T"
             ],
+            "xscissor": [
+                "L40",
+                "T"
+            ],
             "protect": [
-                "L41",
+                "L44",
                 "M"
             ],
-            "xscissor": [
-                "L44",
-                "T"
+            "leechlife": [
+                "L48"
             ],
             "earthquake": [
                 "M"
@@ -106460,10 +106466,6 @@ exports.BattleLearnsets = {
             "encore": [
                 "L1"
             ],
-            "icebeam": [
-                "L1",
-                "M"
-            ],
             "pound": [
                 "L1"
             ],
@@ -106526,6 +106528,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "haze": [
+                "M"
+            ],
+            "icebeam": [
                 "M"
             ],
             "lightscreen": [
@@ -119591,16 +119596,10 @@ exports.BattleLearnsets = {
                 "L0",
                 "L1"
             ],
-            "highhorsepower": [
-                "L1",
-                "L54",
-                "M"
-            ],
             "nobleroar": [
                 "L1"
             ],
             "doublehit": [
-                "L1",
                 "L1"
             ],
             "scratch": [
@@ -119642,6 +119641,10 @@ exports.BattleLearnsets = {
             ],
             "woodhammer": [
                 "L48",
+                "M"
+            ],
+            "highhorsepower": [
+                "L54",
                 "M"
             ],
             "boomburst": [
@@ -119739,16 +119742,10 @@ exports.BattleLearnsets = {
                 "L0",
                 "L1"
             ],
-            "highhorsepower": [
-                "L1",
-                "L54",
-                "M"
-            ],
             "nobleroar": [
                 "L1"
             ],
             "doublehit": [
-                "L1",
                 "L1"
             ],
             "scratch": [
@@ -119790,6 +119787,10 @@ exports.BattleLearnsets = {
             ],
             "woodhammer": [
                 "L48",
+                "M"
+            ],
+            "highhorsepower": [
+                "L54",
                 "M"
             ],
             "boomburst": [
@@ -130921,7 +130922,7 @@ exports.BattleLearnsets = {
             "torment": [
                 "L5"
             ],
-            "flatter": [
+            "uproar": [
                 "L10"
             ],
             "twister": [
@@ -130947,8 +130948,9 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "L45"
             ],
-            "uproar": [
-                "L50"
+            "fly": [
+                "L50",
+                "M"
             ],
             "superpower": [
                 "L55"
@@ -130966,9 +130968,6 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "earthpower": [
-                "M"
-            ],
-            "fly": [
                 "M"
             ],
             "grassknot": [
@@ -131020,7 +131019,7 @@ exports.BattleLearnsets = {
             "torment": [
                 "L5"
             ],
-            "flatter": [
+            "uproar": [
                 "L10"
             ],
             "twister": [
@@ -131046,8 +131045,9 @@ exports.BattleLearnsets = {
             "extrasensory": [
                 "L45"
             ],
-            "uproar": [
-                "L50"
+            "fly": [
+                "L50",
+                "M"
             ],
             "superpower": [
                 "L55"
@@ -131065,9 +131065,6 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "earthpower": [
-                "M"
-            ],
-            "fly": [
                 "M"
             ],
             "grassknot": [
@@ -131705,7 +131702,7 @@ exports.BattleLearnsets = {
             "watergun": [
                 "L1"
             ],
-            "workup": [
+            "rapidspin": [
                 "L4"
             ],
             "wingattack": [
@@ -131775,7 +131772,7 @@ exports.BattleLearnsets = {
             "watergun": [
                 "L1"
             ],
-            "workup": [
+            "rapidspin": [
                 "L4"
             ],
             "wingattack": [
@@ -131856,6 +131853,10 @@ exports.BattleLearnsets = {
                 "L0",
                 "L1"
             ],
+            "bravebird": [
+                "L1",
+                "M"
+            ],
             "pound": [
                 "L1"
             ],
@@ -131865,7 +131866,7 @@ exports.BattleLearnsets = {
             "watergun": [
                 "L1"
             ],
-            "workup": [
+            "rapidspin": [
                 "L4"
             ],
             "wingattack": [
@@ -131905,9 +131906,6 @@ exports.BattleLearnsets = {
             ],
             "wavecrash": [
                 "L58",
-                "M"
-            ],
-            "bravebird": [
                 "M"
             ],
             "lowkick": [
