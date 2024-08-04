@@ -30542,8 +30542,7 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Water Absorb",
-            "1": "Chlorophyll",
+            "0": "Chlorophyll",
             "H": "Storm Drain"
         },
         "color": "Green",
@@ -50095,7 +50094,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Iron Fist",
-            "H": "Static"
+            "H": "Volt Absorb"
         },
         "color": "Yellow",
         "name": "Pawmi",
@@ -50135,7 +50134,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Iron Fist",
-            "H": "Static"
+            "H": "Volt Absorb"
         },
         "color": "Yellow",
         "name": "Pawmo",
@@ -50179,7 +50178,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Iron Fist",
-            "H": "Static"
+            "H": "Volt Absorb"
         },
         "color": "Yellow",
         "name": "Pawmot",

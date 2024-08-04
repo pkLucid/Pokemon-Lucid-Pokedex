@@ -13455,10 +13455,6 @@ exports.BattleLearnsets = {
     },
     "slowking": {
         "learnset": {
-            "chillyreception": [
-                "L0",
-                "L1"
-            ],
             "powergem": [
                 "L1",
                 "T"
@@ -94311,8 +94307,9 @@ exports.BattleLearnsets = {
             "hammerarm": [
                 "L55"
             ],
-            "sandstorm": [
-                "L60"
+            "fly": [
+                "L60",
+                "M"
             ],
             "earthquake": [
                 "L65",
@@ -94325,9 +94322,6 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "defog": [
-                "M"
-            ],
-            "fly": [
                 "M"
             ],
             "grassknot": [
@@ -94420,8 +94414,9 @@ exports.BattleLearnsets = {
             "hammerarm": [
                 "L55"
             ],
-            "sandstorm": [
-                "L60"
+            "fly": [
+                "L60",
+                "M"
             ],
             "earthquake": [
                 "L65",
@@ -94434,9 +94429,6 @@ exports.BattleLearnsets = {
                 "L75"
             ],
             "defog": [
-                "M"
-            ],
-            "fly": [
                 "M"
             ],
             "grassknot": [

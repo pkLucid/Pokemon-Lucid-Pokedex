@@ -1670,7 +1670,7 @@ exports.BattleLocationdex = {
                     "maxLvl": 5
                 },
                 {
-                    "species": "tinkatink",
+                    "species": "ralts",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -1899,12 +1899,12 @@ exports.BattleLocationdex = {
             "baseRate": 4,
             "encs": [
                 {
-                    "species": "arctovish",
+                    "species": "frillish",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "dracovish",
+                    "species": "chinchou",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -2470,7 +2470,56 @@ exports.BattleLocationdex = {
     },
     "route115": {
         "name": "Route 115",
-        "land": {},
+        "land": {
+            "baseRate": 20,
+            "encs": [
+                {
+                    "species": "ralts",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "minccino",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "aipom",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "pawmi",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "tinkatink",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "phanpy",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "yanma",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "glimmet",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                },
+                {
+                    "species": "munna",
+                    "minLvl": 5,
+                    "maxLvl": 5
+                }
+            ]
+        },
         "surf": {
             "baseRate": 4,
             "encs": [
@@ -5875,12 +5924,12 @@ exports.BattleLocationdex = {
             "baseRate": 4,
             "encs": [
                 {
-                    "species": "arctovish",
+                    "species": "frillish",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "dracovish",
+                    "species": "chinchou",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
@@ -8402,12 +8451,12 @@ exports.BattleLocationdex = {
             "baseRate": 4,
             "encs": [
                 {
-                    "species": "arctovish",
+                    "species": "frillish",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
                 {
-                    "species": "dracovish",
+                    "species": "chinchou",
                     "minLvl": 5,
                     "maxLvl": 5
                 },
