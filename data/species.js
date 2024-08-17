@@ -14455,9 +14455,9 @@ exports.BattlePokedex = {
         "baseSpecies": "Ursaluna",
         "forme": "Bloodmoon",
         "prevo": "Ursaring",
-        "evoMap": "Victory Road",
-        "evoType": "levelMap",
-        "evoCondition": "",
+        "evoItem": "Moon Stone",
+        "evoType": "useItem",
+        "evoCondition": "at night",
         "tier": "obtainable"
     },
     "slugma": {

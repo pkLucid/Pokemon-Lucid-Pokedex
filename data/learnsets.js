@@ -13455,6 +13455,9 @@ exports.BattleLearnsets = {
     },
     "slowking": {
         "learnset": {
+            "teleport": [
+                "L1"
+            ],
             "powergem": [
                 "L1",
                 "T"
@@ -18541,6 +18544,9 @@ exports.BattleLearnsets = {
             "rocktomb": [
                 "T"
             ],
+            "temperflare": [
+                "T"
+            ],
             "thunder": [
                 "T"
             ],
@@ -18679,6 +18685,9 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "rocktomb": [
+                "T"
+            ],
+            "temperflare": [
                 "T"
             ],
             "thunder": [
@@ -26321,7 +26330,7 @@ exports.BattleLearnsets = {
             "knockoff": [
                 "L20"
             ],
-            "leer": [
+            "tickle": [
                 "L24"
             ],
             "brine": [
@@ -37240,6 +37249,9 @@ exports.BattleLearnsets = {
             ],
             "upperhand": [
                 "T"
+            ],
+            "xscissor": [
+                "T"
             ]
         }
     },
@@ -37350,6 +37362,9 @@ exports.BattleLearnsets = {
                 "T"
             ],
             "upperhand": [
+                "T"
+            ],
+            "xscissor": [
                 "T"
             ]
         }
@@ -55441,6 +55456,9 @@ exports.BattleLearnsets = {
         "learnset": {
             "hyperbeam": [
                 "L0",
+                "L1"
+            ],
+            "teleport": [
                 "L1"
             ],
             "safeguard": [
@@ -77809,9 +77827,6 @@ exports.BattleLearnsets = {
                 "L1",
                 "T"
             ],
-            "encore": [
-                "L1"
-            ],
             "detect": [
                 "L1"
             ],
@@ -77941,9 +77956,6 @@ exports.BattleLearnsets = {
             "slash": [
                 "L1",
                 "T"
-            ],
-            "encore": [
-                "L1"
             ],
             "detect": [
                 "L1"
@@ -99148,6 +99160,9 @@ exports.BattleLearnsets = {
                 "L0",
                 "L1"
             ],
+            "teleport": [
+                "L1"
+            ],
             "quickguard": [
                 "L1"
             ],
@@ -99257,6 +99272,9 @@ exports.BattleLearnsets = {
         "learnset": {
             "charm": [
                 "L0",
+                "L1"
+            ],
+            "teleport": [
                 "L1"
             ],
             "quickguard": [
