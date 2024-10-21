@@ -3257,7 +3257,7 @@ exports.BattlePokedex = {
         "heightm": 1.5,
         "weightkg": 12.5,
         "prevo": "Venonat",
-        "evoLevel": 31,
+        "evoLevel": 21,
         "evoType": "level",
         "evoCondition": "",
         "tier": "obtainable"
@@ -53954,7 +53954,7 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Defiant"
+            "0": "Inner Focus"
         },
         "color": "Green",
         "name": "Ogerpon",
@@ -54010,7 +54010,7 @@ exports.BattlePokedex = {
             "F": 1.0
         },
         "abilities": {
-            "0": "Water Absorb"
+            "0": "Hydration"
         },
         "color": "Blue",
         "name": "Ogerpon-Wellspring",

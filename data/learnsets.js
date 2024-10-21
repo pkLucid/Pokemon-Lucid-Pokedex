@@ -38862,9 +38862,8 @@ exports.BattleLearnsets = {
                 "L54",
                 "M"
             ],
-            "closecombat": [
-                "L60",
-                "T"
+            "skyuppercut": [
+                "L60"
             ],
             "drainpunch": [
                 "M"
@@ -38888,6 +38887,9 @@ exports.BattleLearnsets = {
                 "M"
             ],
             "aerialace": [
+                "T"
+            ],
+            "closecombat": [
                 "T"
             ],
             "dig": [
