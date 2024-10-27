@@ -30937,8 +30937,9 @@ exports.BattlePokedex = {
         "heightm": 1.6,
         "weightkg": 66.6,
         "prevo": "Yamask-Galar",
-        "evoType": "other",
-        "evoCondition": "take 49 or more damage and walk under stone sculpture in Dusty Bowl",
+        "evoItem": "Dawn Stone",
+        "evoType": "useItem",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "tirtouga": {
