@@ -30937,7 +30937,7 @@ exports.BattlePokedex = {
         "heightm": 1.6,
         "weightkg": 66.6,
         "prevo": "Yamask-Galar",
-        "evoItem": "Dawn Stone",
+        "evoItem": "Dusk Stone",
         "evoType": "useItem",
         "evoCondition": "",
         "tier": "obtainable"
